@@ -1,1 +1,1 @@
-# tegani
+# telgani
